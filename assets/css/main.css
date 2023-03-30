@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+
+.navbar{
+    height: 62px;
+}
+
+.navbar-brand img {
+    width: 100px;
+    height: 30;
+  }
+
+.card-title{
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+
+img{
+    border-top-right-radius: 2%;
+    border-top-left-radius: 2%;
+    outline: none;
+}
+
+
+.card-text {
+    font-size: 30px;
+    margin-bottom: 0;
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+span{
+    padding-top: 0;
+    font-size: 25px;
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.text-muted{
+    display: flex;
+}
+
+.text-muted p.price-now{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.form-group p{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.form-group  input{
+    margin-bottom: 20px;
+}
+
+footer img{
+    width: 100px;
+    height: 30;
+}
