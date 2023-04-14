@@ -1,3 +1,0 @@
-Mi archivo de prueba main
-
-Estoy aprendiendo git
